@@ -1,3 +1,5 @@
+// Question 999.Available Captures for Rook
+
 const numRookCaptures = (board) => {
     let row, column;
     let count = 0;
