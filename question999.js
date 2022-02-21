@@ -4,7 +4,7 @@ const numRookCaptures = (board) => {
     let row, column;
     let count = 0;
 
-    // Locates the rook's coordinates within the board.
+    // Locates a rook's coordinates within a board.
 
     for (let i = 0; i < 8; i++) {
         for (let j = 0; j < 8; j++) {
