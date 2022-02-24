@@ -1,3 +1,4 @@
+//1222. Queens That Can Attack the King
 var queensAttacktheKing = function (queens, king) {
 
     let northWestMap = new Map()
